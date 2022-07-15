@@ -1,9 +1,13 @@
 Timepoint variable: to capture effects of dwell and engagement on DVs importance and newsworthiness for 3 separate time points - beginning, mid, end
 
 values it can take:
+
 1(beginning) - averaging first 5 focal items (5 closest to 0th item) on dwell and engagement for each subject
+
 2(mid) - averaging middle 5 focal items (5 closest to 50th item) on dwell and engagement for each subject
+
 3(end) - averaging last 5 focal items (5 closest to 99th item) on dwell and engagement for each subject
+
 
 monkeypox
 
